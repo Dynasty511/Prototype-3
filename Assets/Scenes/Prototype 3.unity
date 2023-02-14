@@ -277,12 +277,20 @@ PrefabInstance:
       value: 3.509789
       objectReference: {fileID: 0}
     - target: {fileID: 1807459975, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
+      propertyPath: m_Size.z
+      value: 1.4057246
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807459975, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
       propertyPath: m_Center.x
       value: -0.060000062
       objectReference: {fileID: 0}
     - target: {fileID: 1807459975, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
       propertyPath: m_Center.y
       value: 1.7051055
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807459975, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
+      propertyPath: m_Center.z
+      value: -0.001868099
       objectReference: {fileID: 0}
     - target: {fileID: 1807459976, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
       propertyPath: m_Constraints
@@ -694,6 +702,14 @@ PrefabInstance:
     - target: {fileID: 1822273447400352280, guid: c895449a965334d2c8bd81fc7b531ce1, type: 3}
       propertyPath: m_Name
       value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198961442966597483, guid: c895449a965334d2c8bd81fc7b531ce1, type: 3}
+      propertyPath: m_Size.x
+      value: 0.88516426
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198961442966597483, guid: c895449a965334d2c8bd81fc7b531ce1, type: 3}
+      propertyPath: m_Center.x
+      value: 0.05741787
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c895449a965334d2c8bd81fc7b531ce1, type: 3}
